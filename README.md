@@ -1,6 +1,7 @@
 # simbirsoft
 
 Spring Boot веб приложение.
+
 СУБД PostgreSQL:
 DATABASE simbirsoft
 CREATE TABLE public.page
